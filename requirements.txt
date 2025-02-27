@@ -2,4 +2,4 @@ pandas
 numpy
 matplotlib
 plotly
-jupyter_dash
+jupyter-dash
